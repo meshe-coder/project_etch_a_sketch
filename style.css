@@ -1,0 +1,11 @@
+.grid-container{
+    display:flex;
+    flex-flow:row wrap;
+    flex:1 1 0%;
+    background-color: rgb(161, 172, 172);
+    height: 500px;
+    width:500px;
+}
+.grids{
+    background-color: wheat;
+}
